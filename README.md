@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DoViewTool::Renderer.copyright 'Anthony Do', 'All rights reserved'
+```
 
 ## Development
 
